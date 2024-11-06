@@ -1,0 +1,16 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+
+.row
+{
+    background-color: cadetblue;
+} */
+
+.col
+{
+    color: white;
+    background-color: black;
+    border: solid 2px white;
+}
